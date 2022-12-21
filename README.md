@@ -320,10 +320,6 @@ $
 
 ## Authors ##
 
-👤 **BESTHOR IGBE**
+👤 **OLADIMEJI TAIWO**
 
-- GitHub: [@besthor] (https://github.com/besthor)
-
-👤 **MOSURO KANYINSOLA OLUBUNMI**
-
-- GitHub: [@](https://github.com)
+- GitHub: [@IsaatinCreatives] (https://github.com/IsaatinCreatives)
